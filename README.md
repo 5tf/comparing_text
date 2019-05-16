@@ -1,1 +1,1 @@
-comparing_text
+Program wybieraj¹cy najlepiej dopasowany tekst do Ÿrod³owego.
